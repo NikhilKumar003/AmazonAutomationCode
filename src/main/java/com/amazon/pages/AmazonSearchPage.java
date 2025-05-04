@@ -15,7 +15,7 @@ public class AmazonSearchPage {
     WebDriver driver;
     JavascriptExecutor js;
     
-    
+// added .git ignore file
 
     public AmazonSearchPage(WebDriver driver) {
         this.driver = driver;
