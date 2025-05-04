@@ -1,7 +1,0 @@
-com\amazon\utilites\ElementUtils.class
-com\amazon\pages\AmazonPage.class
-com\amazon\factory\DriverFactory.class
-com\amazon\pages\AmazonSearchPage.class
-com\amazon\factory\OptionsManager.class
-com\amazon\utilites\JavaScriptUtils.class
-com\amazon\pages\AmazonSelectAllCheckBoxes.class
